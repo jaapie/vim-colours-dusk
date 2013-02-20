@@ -15,15 +15,16 @@ Because pictures speak thousands of words.
 
 ## Installation and Usage
 
-If you are using Tim Pope&rsquo;s [Pathogen](https://github.com/tpope/vim-pathogen)
-to manage your Vim plugins, then all you have to do is:
+If you are using Tim Pope&rsquo;s
+[Pathogen](https://github.com/tpope/vim-pathogen) to manage your Vim plugins,
+then all you have to do is:
 
 	cd ~/.vim/bundle 
 	git clone git@github.com:jaapie/vim-colours-dusk vim-colours-dusk
 
 If you have a dotfile repo and are using git and submodules like many other
-sane people out there, then you probably know what to do and won&rsquo;t even read
-this readme. Which is cool, I wouldn&rsquo;t either.
+sane people out there, then you probably know what to do and won&rsquo;t even
+read this readme. Which is cool, I wouldn&rsquo;t either.
 
 If you are not doing either, then download the zipball 
 [here](https://github.com/jaapie/vim-colours-dusk/archive/master.zip) and
@@ -34,7 +35,7 @@ unzip it to your `~/.vim` directory, so:
 	cd vim-colours-dusk-master
 	cp -Rv ./colors ~/.vim
 
-Et Voila! Next time you start Vim just type `:colorscheme Dusk` and you should
+*Et Voila!* Next time you start Vim just type `:colorscheme Dusk` and you should
 be blessed with all the dark-backgrounded pinky goodness of Dusk. If you are
 like me and do not want to type `:colorscheme Dusk` every time you start Vim,
 just put this into your `~/.vimrc` file:
@@ -44,16 +45,21 @@ just put this into your `~/.vimrc` file:
 		colorscheme Dusk 
 	endif
 
-Since this is a GUI-only port of Dusk for Xcode if makes no sense to apply the
-colourscheme when you run Vim in a termial. That&rsquo;s why the `colorscheme`
+Since this is a GUI-only port of Dusk for Xcode it makes no sense to apply the
+colourscheme when you run Vim in a terminal. That&rsquo;s why the `colorscheme`
 command is inside a conditional that tests if you have a GUI running.
+
+## While You&rsquo;re Here&hellip;
+
+WHy don&rsquo;t you check out my [dotfiles](/jaapie/dotfiles) repo which
+includes a lot of Vim goodness.
 
 ## Credits
 
-I want to thank the creator of the rdark colourscheme, Radu Dineiu, which is
-available [here](http://www.vim.org/scripts/script.php?script_id=1732)&mdash;which 
-I highly recommend&mdash;becuase unbeknownst the him it enabled me in its simplicity
-to create this colour scheme file.
+I want to thank the creator of the rdark colourscheme which is available
+[here](http://www.vim.org/scripts/script.php?script_id=1732), Radu Dineiu
+&mdash;which I highly recommend&mdash;becuase unbeknownst the him it enabled
+me in its simplicity to create this colour scheme file.
 
 The [HiLinkTrace](https://github.com/gerw/vim-HiLinkTrace) plugin helped heaps
 when trying to figure out what highlight group I was trying to focus on.
