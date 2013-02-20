@@ -165,6 +165,17 @@ hi link xmlTag htmlTag
 hi link xmlEndTag htmlEndTag
 hi link xmlAttrib htmlArg
 
+" Markdown
+hi link markdownHeadingDelimiter PreProc
+hi link markdownH1 markdownHeadingDelimiter
+hi link markdownH2 markdownHeadingDelimiter
+hi link markdownH3 markdownHeadingDelimiter
+hi link markdownH4 markdownHeadingDelimiter
+hi link markdownH5 markdownHeadingDelimiter
+hi link markdownH6 markdownHeadingDelimiter
+hi link markdownCodeBlock Attribute
+hi link markdownUrl Underlined
+
 " CSS
 hi link cssSelectorOp Normal
 hi link cssSelectorOp2 cssSelectorOp
