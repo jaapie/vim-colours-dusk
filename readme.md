@@ -51,7 +51,7 @@ command is inside a conditional that tests if you have a GUI running.
 
 ## While You&rsquo;re Here&hellip;
 
-WHy don&rsquo;t you check out my [dotfiles](/jaapie/dotfiles) repo which
+WHy don&rsquo;t you check out my [dotfiles](//github.com/jaapie/dotfiles) repo which
 includes a lot of Vim goodness.
 
 ## Credits
