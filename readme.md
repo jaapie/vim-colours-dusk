@@ -10,8 +10,8 @@ dusk.
 
 Because pictures speak thousands of words. 
 
-[Dusk in MacVim editing PHP](vim-dusk-1.png)
-[Dusk in MacVim editing HTML](vim-dusk-2.png)
+![Dusk in MacVim editing PHP](vim-dusk-1.png)
+![Dusk in MacVim editing HTML](vim-dusk-2.png)
 
 ## Installation and Usage
 
