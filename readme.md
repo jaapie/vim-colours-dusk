@@ -6,6 +6,13 @@ I can tell. Some of the other ports are too bright. Dusk is meant to be
 subdued and easy on the eyes, like the subdued and mellow light you get at
 dusk.
 
+## Screenshots
+
+Because pictures speak thousands of words. 
+
+[Dusk in MacVim editing PHP](vim-dusk-1.png)
+[Dusk in MacVim editing HTML](vim-dusk-2.png)
+
 ## Installation and Usage
 
 If you are using Tim Pope&rsquo;s [Pathogen](https://github.com/tpope/vim-pathogen)
@@ -16,7 +23,7 @@ to manage your Vim plugins, then all you have to do is:
 
 If you have a dotfile repo and are using git and submodules like many other
 sane people out there, then you probably know what to do and won&rsquo;t even read
-this readme. WHich is cool, I wouldn&rsquo;t either.
+this readme. Which is cool, I wouldn&rsquo;t either.
 
 If you are not doing either, then download the zipball 
 [here](https://github.com/jaapie/vim-colours-dusk/archive/master.zip) and
