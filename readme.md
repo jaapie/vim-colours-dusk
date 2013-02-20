@@ -44,8 +44,8 @@ command is inside a conditional that tests if you have a GUI running.
 ## Credits
 
 I want to thank the creator of the rdark colourscheme, Radu Dineiu, which is
-available [here](http://ld.yi.org/vim/rdark/)&mdash;which I highly
-recommend&mdash;becuase unbeknownst the him, it enabled me in its simplicity
+available [here](http://www.vim.org/scripts/script.php?script_id=1732)&mdash;which 
+I highly recommend&mdash;becuase unbeknownst the him it enabled me in its simplicity
 to create this colour scheme file.
 
 The [HiLinkTrace](https://github.com/gerw/vim-HiLinkTrace) plugin helped heaps
