@@ -29,7 +29,7 @@ endif
 
 " Default Colors
 hi Normal guifg=#a8a8a8 guibg=#1f1f1f
-hi NonText guifg=#2c3032 guibg=#2c3032 gui=none
+hi NonText guifg=#2c3032 guibg=#1a1a1a gui=none
 hi link Cursor Normal
 hi link ICursor Normal
 
@@ -45,7 +45,7 @@ hi Visual guifg=#1e2426 guibg=#EC008C
 hi MoreMsg guifg=#729fcf
 hi Question guifg=#8ae234 gui=none
 hi WildMenu guifg=#eeeeec guibg=#0e1416
-hi LineNr guifg=#3f3f3f guibg=#000000
+hi LineNr guifg=#2c3032 guibg=#1f1f1f gui=none
 hi SignColumn guibg=#1e2426
 
 " Pmenu
